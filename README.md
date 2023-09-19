@@ -15,7 +15,6 @@ Excel is a powerful tool for data analysis and management, and this repository a
 
 ### 1. Bike Sales Dashboard
 
-- **Description**: This project demonstrates how to create an interactive sales analysis dashboard using pivot tables, charts, and slicers.
-- **Directory**: `/sales-analysis-dashboard`
+- **Description**: This Excel-based dashboard is designed to provide a comprehensive analysis of bike sales data by utilizing pivot tables, charts, and slicers. The primary goal of this project is to offer an insightful view of bike sales trends based on various demographics, including age brackets and average income levels.
 - **Screenshot**: ![Dashboard Screenshot](/sales-analysis-dashboard/screenshot.png)
 
