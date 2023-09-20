@@ -19,7 +19,7 @@ Excel is a powerful tool for data analysis and management, and this repository a
 
 - **Description**: This Excel-based dashboard is meticulously crafted to deliver an in-depth analysis of bike sales data by harnessing the power of pivot tables, charts, and slicers. Our core objective with this project is to provide an enlightening perspective on bike sales trends, dissected by diverse demographics, encompassing age brackets and average income levels.
 
-- **Screenshot**: ![Dashboard Screenshot](https://github.com/Swapppyy/Excel_Projects/blob/main/Bike_sales.png)
+- **Screenshot**: ![Dashboard Screenshot](https://github.com/Swapppyy/Excel_Projects/blob/main/Bike_sales_dashboard.png)
 
 ### 2. MCDonalds Sales Dashboard
 
