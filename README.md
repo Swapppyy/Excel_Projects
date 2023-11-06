@@ -1,6 +1,6 @@
 # Excel Projects Showcase
 
-Welcome to the Excel Projects Showcase repository! This repository is designed to showcase a collection of Excel projects that demonstrate various data analysis, visualization, and automation tasks using Microsoft Excel. Whether you're a beginner looking for inspiration or an experienced Excel user, you'll find valuable insights and examples here.
+Welcome to the Excel Projects Showcase repository! This repository is designed to showcase a collection of Excel projects that demonstrate various data analysis, visualization, and automation tasks using Microsoft Excel.
 
 ## Table of Contents
 
