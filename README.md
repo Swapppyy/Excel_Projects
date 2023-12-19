@@ -1,33 +1,25 @@
-# Excel Projects Showcase
-
-Welcome to the Excel Projects Showcase repository! This repository is designed to showcase a collection of Excel projects that demonstrate various data analysis, visualization, and automation tasks using Microsoft Excel.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Projects](#projects)
+# Coffee Sales Insights
 
 ## Introduction
 
-Excel is a powerful tool for data analysis and management, and this repository aims to illustrate its versatility by providing a selection of projects that cover different aspects of Excel usage. Each project is contained within its own directory and includes documentation and sample data where applicable.
-
-## Projects
-
-### 1. Coffee Beans Sales Analysis
-
-### Coffee Beans Sales Analysis Dashboard
-
-- **Description**: This project involved a comprehensive analysis of coffee bean sales data using Microsoft Excel. The analysis encompassed data cleaning, transformation, and examination of sales records over the period from 2019 to 2022. The data was dissected from various perspectives, including the top 5 customers, countries, different roast types, package sizes, and loyalty card membership status.
+This project involved a comprehensive analysis of coffee bean sales data using Microsoft Excel. The analysis encompassed data cleaning, transformation, and examination of sales records over the period from 2019 to 2022. The data was dissected from various perspectives, including the top 5 customers, countries, different roast types, package sizes, and loyalty card membership status.
 
 - **Screenshot**: ![Dashboard Screenshot](https://github.com/Swapppyy/Excel_Projects/blob/main/cof-db.png)
 
-### 2. Bike Sales Dashboard
+## Data cleaning and Transformation
 
-### Bike Sales Analysis Dashboard
+- Imported the raw data into Excel and check for missing values. I used the Filter function in Excel for the same.
+- After data cleaning procedure, i decided how i want to make my dashboard and what all data would i need.
+- I extracted data like coffee type, dates, country using XLOOKUP() command to make it clean and usable.
+- Using IF() command, extracted the necessary data i wanted for visualization purpose.
+- Using Pivot tables calculated Total sales overtime, top customers and countries.
 
-- **Description**: This Excel-based dashboard is meticulously crafted to deliver an in-depth analysis of bike sales data by harnessing the power of pivot tables, charts, and slicers. Our core objective with this project is to provide an enlightening perspective on bike sales trends, dissected by diverse demographics, encompassing age brackets and average income levels.
+## Visualization:
 
-- **Screenshot**: ![Dashboard Screenshot](https://github.com/Swapppyy/Excel_Projects/blob/main/Bike_sales_dashboard.png)
+- With the help of pivot tables, created different charts which will be useful to create my final dashboard.
+- Integrated timeline and slicers to make my charts dynamic for the imported data.
+- Created my final dashboard using pivot charts, slicers and timeline and integrated them all together.
+
 
 
 
