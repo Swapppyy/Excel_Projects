@@ -4,6 +4,8 @@
 
 This project involved a comprehensive analysis of coffee bean sales data using Microsoft Excel. The analysis encompassed data cleaning, transformation, and examination of sales records over the period from 2019 to 2022. The data was dissected from various perspectives, including the top 5 customers, countries, different roast types, package sizes, and loyalty card membership status.
 
+You can view my work over here: <a href="https://github.com/Swapppyy/Excel_Projects/blob/main/Coffee_Sales_project.xlsx" target="_blank"><code>View my Project</code></a>
+
 - **Screenshot**: ![Dashboard Screenshot](https://github.com/Swapppyy/Excel_Projects/blob/main/cof-db.png)
 
 ## Data cleaning and Transformation
